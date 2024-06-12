@@ -1,0 +1,5 @@
+Well there is not so much to learn in Express JS
+Just now see the basics of MongoDB and start building projects
+Building projects will help you to understand things more better 
+
+You are now eligible for MERN stack
